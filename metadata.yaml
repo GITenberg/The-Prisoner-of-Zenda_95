@@ -1,0 +1,67 @@
+_repo: The-Prisoner-of-Zenda_95
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: "The Prisoner of Zenda (1894), by Anthony Hope, is an adventure novel\
+  \ in which the King of Ruritania is drugged on the eve of his coronation and thus\
+  \ is unable to attend the ceremony. Political forces within the realm are such that,\
+  \ in order for the king to retain the crown, his coronation must proceed. Fortuitously,\
+  \ an English gentleman on holiday in Ruritania who resembles the monarch is persuaded\
+  \ to act as his political decoy in an effort to save the unstable political situation\
+  \ of the interregnum.\nThe name of the villain in The Prisoner of Zenda, Rupert\
+  \ of Hentzau, is the title of the sequel novel, Rupert of Hentzau (1898), published\
+  \ four years later, and is included in some editions of The Prisoner of Zenda. The\
+  \ popularity of the novels inspired the Ruritanian romance genre of literature,\
+  \ film, and theatre that features stories set in a fictional country, usually in\
+  \ Central Europe and Eastern Europe, such as Ruritania, the Central European realm\
+  \ that named the genre,  which includes the Graustark novels by George Barr McCutcheon.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- Best Books Ever Listings
+- Bestsellers, American, 1895-1923
+- Movie Books
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '95'
+  wikidata: Q1193766
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Foreign countries -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Impostors and imposture -- Fiction'
+- GITenberg
+title: The Prisoner of Zenda
+url: http://www.gutenberg.org/ebooks/95
+wikipedia:
+- https://sh.wikipedia.org/wiki/The_Prisoner_of_Zenda
+- https://fr.wikipedia.org/wiki/Le_Prisonnier_de_Zenda_(roman)
+- https://ar.wikipedia.org/wiki/%D8%B3%D8%AC%D9%8A%D9%86_%D8%B2%D9%86%D8%AF%D8%A7
+- https://nl.wikipedia.org/wiki/De_Gevangene_van_Zenda
+- https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%80%E5%9F%8E%E3%81%AE%E8%99%9C
+- https://pl.wikipedia.org/wiki/Wi%C4%99zie%C5%84_na_zamku_Zenda
+- https://en.wikiquote.org/wiki/The_Prisoner_of_Zenda
+- https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AF%D8%A7%D9%86%DB%8C_%D8%B2%D9%86%D8%AF%D8%A7_%DB%B1%DB%B8%DB%B9%DB%B4_(%DA%A9%D8%AA%D8%A7%D8%A8)
+- https://de.wikipedia.org/wiki/Der_Gefangene_von_Zenda
+- https://en.wikisource.org/wiki/The_Prisoner_of_Zenda
+- https://es.wikipedia.org/wiki/El_prisionero_de_Zenda_(novela)
+- https://cy.wikipedia.org/wiki/The_Prisoner_of_Zenda
+- https://en.wikipedia.org/wiki/The_Prisoner_of_Zenda
+- https://it.wikipedia.org/wiki/Il_prigioniero_di_Zenda
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BD%D0%B4%D1%8B
+- https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80
+- https://sv.wikipedia.org/wiki/F%C3%A5ngen_p%C3%A5_Zenda
+- https://ca.wikipedia.org/wiki/El_presoner_de_Zenda_(novel%C2%B7la)
+- https://pt.wikipedia.org/wiki/O_Prisioneiro_de_Zenda_(livro)
