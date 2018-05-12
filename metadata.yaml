@@ -1,5 +1,8 @@
 _repo: The-Prisoner-of-Zenda_95
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hope, Anthony
@@ -23,6 +26,8 @@ description: "The Prisoner of Zenda (1894), by Anthony Hope, is an adventure nov
   \ Central Europe and Eastern Europe, such as Ruritania, the Central European realm\
   \ that named the genre,  which includes the Graustark novels by George Barr McCutcheon.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/95#The-Prisoner-of-Zenda
 gutenberg_bookshelf:
 - Adventure
 - Best Books Ever Listings
